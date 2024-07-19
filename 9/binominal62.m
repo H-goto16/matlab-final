@@ -1,3 +1,5 @@
+% 確率密度関数グラフプロット
+
 clc, clear, close all; %初期設定(画面クリア等）
 warning('off');
 %
